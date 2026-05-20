@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Guía de Ejercicios</title>
+    </head>
+    <body>
+        <h1>Guía de Ejercicios</h1>
+        <ul>
+            <li><a href="Ejercicio_1.html">Ejercicio 1</a></li>
+            <li><a href="Ejercicio_2.html">Ejercicio 2</a></li>
+            <li><a href="Ejercicio_3.html">Ejercicio 3</a></li>
+            <li><a href="Ejercicio_4.html">Ejercicio 4</a></li>
+            <li><a href="Ejercicio_5.html">Ejercicio 5</a></li>
+            <li><a href="Ejercicio_6.html">Ejercicio 6</a></li>
+            <li><a href="Ejercicio_7.html">Ejercicio 7</a></li>
+            <li><a href="Ejercicio_8.html">Ejercicio 8</a></li>
+            <li><a href="Ejercicio_9.html">Ejercicio 9</a></li>
+            <li><a href="Ejercicio_10.html">Ejercicio 10</a></li>
+            <li><a href="Ejercicio_11.html">Ejercicio 11</a></li>
+            <li><a href="Ejercicio_12.html">Ejercicio 12</a></li>
+            <li><a href="Ejercicio_13.html">Ejercicio 13</a></li>
+            <li><a href="Ejercicio_14.html">Ejercicio 14</a></li>
+            <li><a href="Ejercicio_15.html">Ejercicio 15</a></li>
+            <li><a href="Ejercicio_16.html">Ejercicio 16</a></li>
+            <li><a href="Ejercicio_17.html">Ejercicio 17</a></li>
+            <li><a href="Ejercicio_18.html">Ejercicio 18</a></li>
+            <li><a href="Ejercicio_19.html">Ejercicio 19</a></li>
+            <li><a href="Ejercicio_20.html">Ejercicio 20</a></li>
+            <li><a href="Ejercicio_21.html">Ejercicio 21</a></li>
+            <li><a href="Ejercicio_22.html">Ejercicio 22</a></li>
+            <li><a href="Ejercicio_23.html">Ejercicio 23</a></li>
+            <li><a href="Ejercicio_24.html">Ejercicio 24</a></li>
+            <li><a href="Ejercicio_25.html">Ejercicio 25</a></li>
+        </ul>
+    </body>
+</html>
