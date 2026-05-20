@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 18</title>
+    </head>
+    <body>
+        <h1>Ejercicio 18</h1>
+        <hr>
+        <p>Elabore un formulario que solicite el nombre del cliente, el producto, la cantidad y el precio unitario. En otro archivo PHP deberá mostrarse una factura con el subtotal y el total a pagar.</p>
+        <hr>
+    
+       <h2>Formulario de verificación</h2>
+    <form action="Ejercicio_18.php" method="POST">
+        <label for="nombre">Ingrese el nombre del cliente:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <label for="producto">Ingrese el producto:</label>
+        <input type="text" id="producto" name="producto" required>
+        <label for="cantidad">Ingrese la cantidad:</label>
+        <input type="number" id="cantidad" name="cantidad" required>
+        <label for="precio">Ingrese el precio unitario:</label>
+        <input type="number" id="precio" name="precio" required>
+        <button type="submit">Enviar</button>
+    </form>
+    </body>
+</html>
+       
